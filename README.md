@@ -33,7 +33,7 @@ is transformed to:
 ```
 |- components.js
 |- widget.html
-|- foo
+|- foo.html
 ```
 
 where `components.js` is:
