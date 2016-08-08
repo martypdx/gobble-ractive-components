@@ -1,0 +1,30 @@
+{
+  "name": "gobble-ractive-components",
+  "version": "1.0.0",
+  "description": "compile ractive components in a folder/file tree and include rollup file registering all components",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martypdx/gobble-ractive-components.git"
+  },
+  "keywords": [
+    "gobble",
+    "gobble-plugin",
+    "ractive",
+    "components",
+    "compile"
+  ],
+  "author": "Marty Nelson @martypdx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martypdx/gobble-ractive-components/issues"
+  },
+  "homepage": "https://github.com/martypdx/gobble-ractive-components#readme",
+  "devDependencies": {
+    "gobble": "^0.11.3",
+    "gobble-test": "^0.1.1"
+  }
+}

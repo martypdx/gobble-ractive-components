@@ -1,0 +1,7 @@
+node_modules
+.DS_Store
+.gobble*
+npm-debug.log*
+.env
+.vs*
+gobble-test-result
