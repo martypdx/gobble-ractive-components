@@ -1,7 +1,7 @@
 {
   "name": "gobble-ractive-components",
-  "version": "1.0.0",
-  "description": "compile ractive components in a folder/file tree and include rollup file registering all components",
+  "version": "1.0.1",
+  "description": "Compile ractive components in a folder/file tree and include rollup file registering all components",
   "main": "index.js",
   "scripts": {
     "test": "node test"
